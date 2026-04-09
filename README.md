@@ -130,3 +130,8 @@ ollama pull mistral
 ```
 streamlit run src/app.py
 ```
+## Application Preview
+
+Below is a snapshot of ScholarRadar in action. The interface shows the query, retrieved sources, generated answer, and hallucination confidence score.
+
+![ScholarRadar UI](assets/screenshot.png)
