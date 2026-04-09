@@ -1,0 +1,1 @@
+A survey. arXiv preprint arXiv:2308.07107 (2023). [315] Shengyao Zhuang, Bing Liu, Bevan Koopman, and Guido Zuccon. 2023. Open- source large language models are strong zero-shot query likelihood models for document ranking. arXiv preprint arXiv:2310.13243 (2023).

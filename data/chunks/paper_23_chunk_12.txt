@@ -1,0 +1,1 @@
+(01 2009). https://doi.org/10.1561/1500000019 20. Sturua, S., Mohr, I., Akram, M.K., Günther, M., Wang, B., Krimmel, M., Wang, F., Mastrapas, G., Koukounas, A., Wang, N., Xiao, H.: jina-embeddings-v3: Mul- tilingual embeddings with task lora (2024), https://arxiv.org/abs/2409.10173

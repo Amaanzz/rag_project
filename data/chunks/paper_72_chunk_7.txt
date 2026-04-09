@@ -1,0 +1,1 @@
+L 119, pp. 1-88, May 2016. [17] S. Siriwardhana, R. Weerasekera, E. Wen, T. Kaluarachchi, R. Rana, and S. Nanayakkara, "Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering," Trans. Assoc. Comput. Linguist., vol. 11, pp. 1-17, 2023. doi: 10.1162/tacl_a_00530. Page

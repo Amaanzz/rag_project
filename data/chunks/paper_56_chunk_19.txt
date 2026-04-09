@@ -1,0 +1,1 @@
+- Output: [ANSWER] if you can answer the question, otherwise [QUERY] Output Format: - Thought: A few words for thought. - Output: A special token ([ANSWER] or [QUERY]) follow with your answer or new query. Prompt Format Instruction:{INST} Demonstration:{DEMO} Question:{Q} Documents: {D} Table 13: CoR prompt. Attention that {D} will be replaced by all the retrieved paragraphs. 17
