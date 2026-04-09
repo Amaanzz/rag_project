@@ -134,4 +134,6 @@ streamlit run src/app.py
 
 Below is a snapshot of ScholarRadar in action. The interface shows the query, retrieved sources, generated answer, and hallucination confidence score.
 
-![ScholarRadar UI](assets/screenshot.png)
+<p align="center">
+  <img src="assets/Screenshot.png" width="800"/>
+</p>
